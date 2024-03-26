@@ -1,6 +1,6 @@
 # Find README on this link
 
-<https://github.com/CRUSTDE-Containerized-Rust-DevEnv/CRUSTDE_Containerized_Rust_DevEnv>
+<https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv>
 
 ## dash vs underscore madness
 
