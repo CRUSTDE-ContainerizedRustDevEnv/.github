@@ -1,6 +1,8 @@
 # .github
 
-CRUSTDE-ContainerizedRustDevEnv/.github is a special repository.
+***CRUSTDE-ContainerizedRustDevEnv/.github is a special repository***
+
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 The /profile/README.md will appear on the organization's profile.
 

@@ -1,6 +1,8 @@
 # Find README on this link
 
-<https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv>
+***<https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv>***
+
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## dash vs underscore madness
 
