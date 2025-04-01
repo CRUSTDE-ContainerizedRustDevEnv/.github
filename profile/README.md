@@ -1,11 +1,15 @@
-# Find true README on this link
+# CRUSTDE-ContainerizedRustDevEnv
 
-***<https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv>***
+***CRUSTDE - Containerized Rust Development Environment in Linux (in WSL2 on Windows or on bare metal)***
 
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)  
  CRUSTDE-ContainerizedRustDevEnv is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) together.
  
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Find true README on this link
+
+***<https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv>***
 
 ## dash/hyphen vs underscore madness
 
