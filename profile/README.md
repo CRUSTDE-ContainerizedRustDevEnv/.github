@@ -7,13 +7,13 @@
  
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## dash vs underscore madness
+## dash/hyphen vs underscore madness
 
 GitHub does not allow underscores in the Organization name or Username.  
 This is because underscore cannot be used in internet domain names or subdomain names.  
 But it is allowed in repository names.  
 I prefer using underscore because of Rust naming conventions.  
-I will use underscore everywhere except where is not possible. There I will convert them to dashes or remove them.  
+I will use underscore everywhere except where is not possible. There I will convert them to dashes/hyphens or remove them.  
 
 ## Open-source and free as a beer
 
