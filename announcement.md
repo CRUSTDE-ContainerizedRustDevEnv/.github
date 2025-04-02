@@ -1,14 +1,14 @@
 # CRUSTDE - Containerized Rust Development Environment
 
-![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
+![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/.github/main/images/crustde_250x250.png)
 
-<https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv>
+<https://github.com/CRUSTDE-ContainerizedRustDevEnv>
 
 This is an opinionated guide for beginners how to set up CRUSTDE - Containerized Rust Development Environment. The isolation of the container will not allow Rust code to mess with your primary system (FYI: this kind of isolation is good but not perfect).  
 
 I even created a YouTube video for a visual description of the installation process:
 
-[![CRUSTDE_install](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/CRUSTDE_install_634x356.jpg)](https://bestia.dev/youtube/CRUSTDE_install.html)
+[![CRUSTDE_install](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/.github/main/images/CRUSTDE_install_634x356.jpg)](https://bestia.dev/youtube/CRUSTDE_install.html)
 
 I regularly create and upload this container image to DockerHub when new version of rustc is released. Recently version 1.77.0. The image contains a lot of tools that are useful for Rust development. So you don't have to install them.
 

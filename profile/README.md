@@ -2,24 +2,24 @@
 
 ***CRUSTDE - Containerized Rust Development Environment in Linux (in WSL2 on Windows or on bare metal)***
 
-***version: 2024.326.1347  date: 2024-03-26 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv)***  
+***version: 2024.326.1347  date: 2024-03-26 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv)***  
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready-for-use](https://img.shields.io/badge/ready_for_use-green)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
- ![CRUSTDE_Containerized_Rust_DevEnv](https://bestia.dev/webpage_hit_counter/get_svg_image/762890740.svg)
+ ![CRUSTDE-ContainerizedRustDevEnv](https://bestia.dev/webpage_hit_counter/get_svg_image/762890740.svg)
 
- ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)  
+ ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/.github/main/images/crustde_250x250.png)  
  CRUSTDE-ContainerizedRustDevEnv is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) together.
 
- [![Lines in md](https://img.shields.io/badge/Lines_in_markdown-111-green.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/)
+ [![Lines in md](https://img.shields.io/badge/Lines_in_markdown-111-green.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/.github/)
 
 Hashtags: #rustlang #tutorial  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
 
 I even created a YouTube video for a visual description of the installation process:
-[![CRUSTDE_install](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/CRUSTDE_install_634x356.jpg)](https://bestia.dev/youtube/CRUSTDE_install.html)
+[![CRUSTDE_install](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/.github/main/images/CRUSTDE_install_634x356.jpg)](https://bestia.dev/youtube/CRUSTDE_install.html)
 
 ## Install and config Windows and programs needed for Rust development
 
